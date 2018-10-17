@@ -1,8 +1,8 @@
+click
 cryptography
 django-cors-headers
 django-environ
 django-extensions
-django-naomi
 django>=2.0
 djangorestframework
 git+https://github.com/turicas/rows.git@develop#egg=rows
@@ -15,6 +15,7 @@ psycopg2-binary
 py2neo==3.1.2
 pytest-django==3.2.1
 requests
+requests-cache
 sendgrid-django
 tqdm
 whitenoise
